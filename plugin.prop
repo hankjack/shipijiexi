@@ -1,5 +1,5 @@
-name=vip视频
-description = vip视频
-version=2
-url=https://github.com/wgnms/vipss
-type=在线播放
+name=视频解析
+description = 视频解析
+version=1.0.0
+url=https://github.com/hankjack/shipijiexi
+type=边下边播
